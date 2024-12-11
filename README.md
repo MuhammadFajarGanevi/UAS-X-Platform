@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Anggota Kelompok
+Muhammad Fajar Ganevi    {11220910000039}
+Muhammad Aidil Riansyah Manaf    {11220910000027} 
+Muhammad Fatihul Choir     {11220910000121}
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
